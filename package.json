@@ -1,5 +1,5 @@
 {
-  "name": "termux-wabot",
+  "name": "LEIAKBOT",
   "version": "0.0.2",
   "description": "No comment",
   "main": "index.js",
@@ -17,7 +17,7 @@
     "whatsapp",
     "bot"
   ],
-  "author": "MhankBarBar",
+  "author": "GABRIEL&DANIEL",
   "license": "ISC",
   "dependencies": {
     "@adiwajshing/baileys": "github:adiwajshing/baileys",
@@ -44,7 +44,7 @@
     "url": "git+https://github.com/mhankbarbar/termux-wabot.git"
   },
   "bugs": {
-    "url": "https://github.com/mhankbarbar/termux-wabot/issues"
+    "url": "https://github.com/LeinadSaia/botmod/issues"
   },
-  "homepage": "https://github.com/mhankbarbar/termux-wabot#readme"
+  "homepage": "https://github.com/LeinadSaia/botmod/"
 }
