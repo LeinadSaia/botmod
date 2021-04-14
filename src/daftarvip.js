@@ -14,7 +14,7 @@ _wa.me/554792091566 ou digite *${prefix}owner*_
 
 *NOTA*
 
-*GRUPO DO CAUSS 🐊🚩 :*
+*GRUPO DO LEIAK 🐊🚩 :*
 _https://chat.whatsapp.com/IrKmqmFSUsUA1NUPS7D52l_ `
 }
 exports.daftarvip = daftarvip
